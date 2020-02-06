@@ -1,2 +1,2 @@
 # csv-writer
-PHP7 CSV Writer
+PHP7 CSV Generator
